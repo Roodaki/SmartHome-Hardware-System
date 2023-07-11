@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "interrupt.h": "c",
+    "stdlib.h": "c",
+    "keypad.h": "c",
+    "usart.h": "c",
+    "io.h": "c",
+    "spi.h": "c",
+    "temperature.h": "c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "interrupt.h": "c",
+    "stdlib.h": "c",
+    "spi.h": "c",
+    "password_handler.h": "c",
+    "password.h": "c",
+    "int1.h": "c",
+    "io.h": "c",
+    "lcd.h": "c"
+  }
+}
